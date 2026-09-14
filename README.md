@@ -1,4 +1,4 @@
-# 🎰 Lottery System Source Code | Lucky Draw System | 彩票系统源码 | 抽奖系统源码|彩票源码|东南亚彩票|
+# 🎰 Lottery System Source Code | Lucky Draw System |彩票系统源码资料｜彩票系统源码|彩票源码
 
 🔥 Production-ready lottery system (NOT demo) ｜ 可直接上线运营（非演示） ｜ 可直接運營（非測試）
 🔥 Online lottery & lucky draw platform ｜ 在线彩票/抽奖平台 ｜ 線上抽獎平台
@@ -84,25 +84,24 @@ You can use this system to build:
 
 ## 📸 Screenshots | 项目展示 | 專案展示
 
-<img width="1239" height="1143" alt="E057713A8DA658EEB543D330E6935534" src="https://github.com/user-attachments/assets/7ec5aa5c-eb56-4733-8ae4-27f16f540759" />
-<img width="1119" height="1332" alt="E2B9CC911B6F672F03F91B4A729FE9CA" src="https://github.com/user-attachments/assets/097a32c4-7229-45fa-927e-cd5784c29334" />
-<img width="1116" height="1295" alt="DF40FEA7C6B88919D574CB0BC5E06D5A" src="https://github.com/user-attachments/assets/0f2f7b3b-5e52-4e68-99da-255ef7d1cb02" />
+![彩票产品网站首页设计](docs/assets/seo/lottery-system-source-code-01.jpg)
+![彩票 App 语言选择与账户页面](docs/assets/seo/lottery-system-source-code-02.jpg)
+![彩票 App 个人中心功能布局](docs/assets/seo/lottery-system-source-code-03.jpg)
+
+## 相关项目
+
+- [Chess-and-Card-Game-Product-Design-Copy](https://github.com/niubideren111/Chess-and-Card-Game-Product-Design-Copy)
+
+## 项目咨询
+
+- Telegram：[fox_lovemyself](https://t.me/fox_lovemyself)
+- GitHub：[彩票系统源码资料](https://github.com/niubideren111/Lottery-System-Source-Code)
 ---
 
-## 📞 Contact | 联系方式 | 聯絡方式
+## 许可
 
-* Telegram: @fox_lovemyself
+请按仓库现有 [LICENSE](LICENSE) 与 [License.md](License.md) 使用公开文件。商业工程、美术资源和完整部署资料的授权范围以书面约定为准。
 
-💬 Fast response within 24h
-
----
-
-## ⚠️ Disclaimer | 声明 | 聲明
-
-For educational purposes only.
-请遵守当地法律法规。
-
----
 
 ## 🔍 SEO Keywords
 
