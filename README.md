@@ -1,4 +1,12 @@
-# 🎰 Lottery System Source Code | Lucky Draw System |彩票系统源码资料｜彩票系统源码|彩票源码
+# 彩票系统源码资料｜彩票系统源码|彩票源码|App 界面与产品设计展示
+
+> 中文简体 · 中文繁體 · English 多语言产品与源码资料
+
+[简体中文](README.zh-CN.md) · [繁體中文](README.zh-TW.md) · [English](README.en.md) · [产品页面](https://niubideren111.github.io/Lottery-System-Source-Code/zh-cn/)
+
+展示彩票产品的网站与 App 界面，包括语言入口和个人账户等页面，适合用于产品需求沟通和界面方案评估。项目说明提供产品资料与源码交付的联系入口。
+
+**彩票系统源码 · 彩票app源码 · 彩票产品设计 · 彩票界面设计**
 
 🔥 Production-ready lottery system (NOT demo) ｜ 可直接上线运营（非演示） ｜ 可直接運營（非測試）
 🔥 Online lottery & lucky draw platform ｜ 在线彩票/抽奖平台 ｜ 線上抽獎平台
